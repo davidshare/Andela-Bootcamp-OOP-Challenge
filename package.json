@@ -1,0 +1,23 @@
+{
+  "name": "andela-bootcamp-oop-challenge",
+  "version": "1.0.0",
+  "description": "Shapes class to demonstrate OOP concepts in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "run OOP"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidshare/Andela-Bootcamp-OOP-Challenge.git"
+  },
+  "author": "David Essien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidshare/Andela-Bootcamp-OOP-Challenge/issues"
+  },
+  "homepage": "https://github.com/davidshare/Andela-Bootcamp-OOP-Challenge#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
